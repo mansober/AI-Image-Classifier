@@ -31,9 +31,13 @@ I built this project to gain hands-on experience with computer vision and machin
 Install dependencies:
 (Ensure you have uv installed)
 
+2. **Install dependencies:**
+   *(Ensure you have uv installed)*
    ```bash
    uv pip install -r requirements.txt
+   ```
 
- Run the application:
+3. **Run the application:**
    ```bash
    uv run streamlit run main.py
+   ```
