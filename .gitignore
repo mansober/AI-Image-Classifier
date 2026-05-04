@@ -1,0 +1,13 @@
+# Environments
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Machine Learning / TensorFlow (Ignore large model files)
+*.h5
+*.keras
+*.tflite
+saved_model/
