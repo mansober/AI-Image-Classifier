@@ -27,7 +27,7 @@ I built this project to gain hands-on experience with computer vision and machin
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/mansober/AI-Image-Classifier](https://github.com/mansober/AI-Image-Classifier)
-   cd your-repo-name
+   cd AI-Image-Classifier
 Install dependencies:
 (Ensure you have uv installed)
 
