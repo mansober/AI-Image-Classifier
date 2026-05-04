@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "opencv-python>=4.13.0.92",
+    "opencv-python-headless>=4.13.0.92",
     "python-dotenv>=1.2.2",
     "streamlit>=1.57.0",
     "tensorflow>=2.21.0",
