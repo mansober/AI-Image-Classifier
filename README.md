@@ -1,8 +1,4 @@
----
-icon: square-dashed-circle-plus
-cover: .gitbook/assets/ChatGPT Image May 4, 2026, 07_25_07 PM.png
-coverY: 0
----
+
 
 # AI Image Classifier (TensorFlow)
 
