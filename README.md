@@ -22,7 +22,7 @@ I built this project to gain hands-on experience with computer vision and machin
 * **Image Processing:** OpenCV (`opencv-python-headless`), NumPy, Pillow
 * **Environment:** `uv`
 
-## 💻 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository:**
    ```bash
@@ -34,6 +34,6 @@ Install dependencies:
 ```bash
 uv pip install -r requirements.txt
 
-Run the application:
-```bash
-uv run streamlit run main.py
+   Run the application:
+   ```bash
+   uv run streamlit run main.py
